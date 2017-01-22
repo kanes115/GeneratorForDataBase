@@ -1,0 +1,10 @@
+INSERT INTO Country VALUES ('PL')
+INSERT INTO Country VALUES ('RU')
+INSERT INTO Country VALUES ('LT')
+SET IDENTITY_INSERT City ON; 
+INSERT INTO City (CityID, CityName, CountryCode) VALUES (1,'Kraków', 'PL')
+INSERT INTO City (CityID, CityName, CountryCode) VALUES (2,'Sucha Beskidzka', 'PL')
+INSERT INTO City (CityID, CityName, CountryCode) VALUES (3,'Zamość', 'PL')
+INSERT INTO City (CityID, CityName, CountryCode) VALUES (4,'Warszawa', 'PL')
+SET IDENTITY_INSERT City OFF; 
+

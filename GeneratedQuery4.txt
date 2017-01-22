@@ -1,0 +1,2995 @@
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (1) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (1, 'Longina', 'Siuda', '464341523') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (2) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (2, 'Witold', 'Banasiak', '892932214') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (3) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (3, 'Przecław', 'Kuczyński', '408425786') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (4) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (4, 'Lubomysł', 'Stolarski', '298598553') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (5) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (5, 'Roman', 'Stanisławski', '068908196') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (6) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (6, 'Wilhelmina', 'Łukasiewicz', '602395686') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (7) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (7, 'Drogomir', 'Stefanowski', '810569718') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (8) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (8, 'Paloma', 'Cichy', '789896172') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (9) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (9, 'Radziwoj', 'Napiórkowski', '253077859') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (10) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (10, 'Dagobert', 'Orliński', '355092839') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (11) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (11, 'Aniela', 'Kaleta', '900196553') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (12) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (12, 'Wiwanna', 'Tracz', '828233876') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (13) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (13, 'Stojmir', 'Łukawski', '729123604') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (14) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (14, 'Arletta', 'Mika', '457995067') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (15) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (15, 'Melchior', 'Góralski', '359471592') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (16) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (16, 'Bożebor', 'Pokora', '199110038') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (17) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (17, 'Enoch', 'Kruczek', '921747646') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (18) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (18, 'Zygmunt', 'Płóciennik', '362646328') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (19) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (19, 'Probus', 'Jakubczak', '835571415') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (20) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (20, 'Tomir', 'Nowiński', '738906318') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (21) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (21, 'Longina', 'Lachowicz', '123185912') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (22) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (22, 'Odon', 'Werner', '418160714') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (23) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (23, 'Bruno', 'Wagner', '937382138') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (24) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (24, 'Karola', 'Krauze', '817136669') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (25) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (25, 'Domasław', 'Pękala', '937555552') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (26) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (26, 'WrÃ³cimir', 'Stopa', '554435688') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (27) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (27, 'Ilia', 'Kasprzyk', '861478521') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (28) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (28, 'Zygfryd', 'Kapica', '302271669') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (29) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (29, 'Aureli', 'Borowiak', '849514507') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (30) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (30, 'Bryda', 'Pawlaczyk', '425182432') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (31) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (31, 'Fortunata', 'Andrzejczak', '844316140') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (32) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (32, 'Namysław', 'Skrzyński', '594074850') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (33) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (33, 'Emanuela', 'Zasada', '048721564') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (34) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (34, 'Marcin', 'Szostak', '606491197') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (35) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (35, 'Włościsława', 'Socha', '720495650') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (36) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (36, 'Joanna', 'Szymański', '465557587') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (37) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (37, 'Kordelia', 'Abramczyk', '408983746') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (38) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (38, 'Sylwana', 'Głąb', '371683028') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (39) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (39, 'Demokryt', 'Mielczarek', '303478846') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (40) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (40, 'Romuald', 'Woźny', '071051137') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (41) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (41, 'Radowid', 'Pośpiech', '303973790') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (42) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (42, 'Mieczysława', 'Jakubczyk', '936678106') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (43) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (43, 'Serafina', 'Krawczyk', '311935689') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (44) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (44, 'Chociebor', 'Werner', '187060108') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (45) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (45, 'Modesta', 'Zawadzki', '084448082') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (46) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (46, 'Izabella', 'Pawlicki', '164859192') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (47) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (47, 'Maryla', 'Staszak', '375392544') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (48) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (48, 'Konrad', 'Brzeski', '026414840') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (49) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (49, 'Ninogniew', 'Kokoszka', '993710903') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (50) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (50, 'Ludomira', 'Czerniawski', '838011458') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (51) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (51, 'Sulpicjusz', 'Sitko', '170272811') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (52) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (52, 'Patrycjusz', 'Ciszewski', '109855331') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (53) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (53, 'Gniewosz', 'Cichoń', '112606956') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (54) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (54, 'Klementyna', 'Serafin', '163088004') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (55) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (55, 'Antoni', 'Żukowski', '115552829') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (56) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (56, 'Gabor', 'Zdunek', '191799424') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (57) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (57, 'Dobromira', 'Anioł', '692943292') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (58) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (58, 'Klementyna', 'Mroczkowski', '408712459') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (59) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (59, 'Rozanna', 'Świder', '306253812') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (60) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (60, 'Sykstus', 'Gajda', '278720646') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (61) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (61, 'Euchariusz', 'Zabielski', '885652852') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (62) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (62, 'Lilla', 'Biernacki', '089057920') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (63) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (63, 'Prochor', 'Szulc', '120135233') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (64) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (64, 'Przedwoj', 'Misiak', '959814500') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (65) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (65, 'Ada', 'Zapała', '799320819') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (66) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (66, 'JÃ³zefa', 'Sobota', '020681922') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (67) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (67, 'Zula', 'Gołąbek', '088140756') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (68) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (68, 'Liberat', 'Iwan', '206150999') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (69) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (69, 'Sulirad', 'Pankiewicz', '557603400') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (70) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (70, 'Ligia', 'Kasprzak', '495310735') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (71) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (71, 'Mojmir', 'Gałka', '319208583') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (72) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (72, 'Chociebor', 'Czech', '939383640') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (73) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (73, 'Cecylia', 'Woliński', '063241286') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (74) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (74, 'Malina', 'Radzikowski', '690672493') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (75) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (75, 'Florenty', 'Cieśliński', '671919642') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (76) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (76, 'Blandyn', 'Długosz', '354377471') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (77) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (77, 'Parys', 'Kaliszewski', '604800214') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (78) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (78, 'Wawrzyniec', 'Sosiński', '138832006') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (79) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (79, 'Ubald', 'Grzybek', '864938277') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (80) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (80, 'Władymir', 'Kupczak', '657014262') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (81) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (81, 'Dorian', 'Bielak', '174560563') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (82) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (82, 'Aleksander', 'Tokarz', '454277943') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (83) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (83, 'Czesław', 'Moszczyński', '323490215') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (84) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (84, 'Olech', 'Miśkiewicz', '013707219') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (85) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (85, 'Alf', 'Szeląg', '986860908') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (86) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (86, 'Radziwoj', 'Fijałkowski', '550741993') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (87) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (87, 'Wielisława', 'Cieśliński', '329865230') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (88) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (88, 'Bohusz', 'Brzeski', '426976171') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (89) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (89, 'Kornel', 'Goliński', '071323807') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (90) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (90, 'Krzysztofa', 'Piechowiak', '745331785') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (91) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (91, 'Drogomysł', 'Cieszyński', '724917436') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (92) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (92, 'Fryderyka', 'Przybyszewski', '064215240') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (93) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (93, 'Bogna', 'Pankiewicz', '933608908') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (94) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (94, 'Walentyn', 'Bryk', '399308073') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (95) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (95, 'Rufina', 'Gregorczyk', '798323502') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (96) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (96, 'Domicela', 'Maciejczyk', '845180606') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (97) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (97, 'Wiesława', 'Krzemiński', '445007917') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (98) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (98, 'Pudens', 'Waszkiewicz', '158388028') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (99) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (99, 'Krzesimir', 'Starzyński', '618441993') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (100) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (100, 'Bogusz', 'Adamczuk', '230453387') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (101) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (101, 'Racisław', 'Kostrzewa', '685943072') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (102) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (102, 'Kwiryn', 'Lachowski', '347336881') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (103) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (103, 'Bratumił', 'Kołek', '833443666') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (104) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (104, 'Bazylissa', 'Pietrzyk', '575322556') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (105) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (105, 'Chryzant', 'Laskowski', '923231658') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (106) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (106, 'Sądomir', 'Baron', '075109936') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (107) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (107, 'Marcjal', 'Radwański', '940599410') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (108) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (108, 'Winicjusz', 'Domański', '492425351') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (109) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (109, 'Edmunda', 'Bryła', '780667450') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (110) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (110, 'Bernardyna', 'Lasota', '915346411') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (111) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (111, 'Przybygniew', 'Łukaszewicz', '262553381') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (112) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (112, 'Izabella', 'Szpakowski', '934478218') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (113) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (113, 'Honoriusz', 'Strzelczyk', '130272684') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (114) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (114, 'Bolemysł', 'Zasada', '027968779') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (115) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (115, 'JÃ³zefa', 'Cichy', '263388634') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (116) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (116, 'Gniewomir', 'Wiśniewski', '582701725') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (117) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (117, 'Dalila', 'Iwan', '921448956') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (118) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (118, 'Chwalibóg', 'Wójcik', '405807493') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (119) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (119, 'Łukasz', 'Ślęzak', '554046590') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (120) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (120, 'Pulcheria', 'Szczepański', '363541045') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (121) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (121, 'Eufemia', 'Tarkowski', '742375699') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (122) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (122, 'Dionizjusz', 'Węgrzyn', '829496206') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (123) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (123, 'Miromir', 'Nosal', '707245022') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (124) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (124, 'Żyrosław', 'Mróz', '653821878') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (125) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (125, 'Loda', 'Grudzień', '618574054') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (126) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (126, 'Pius', 'Mikołajczyk', '640173888') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (127) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (127, 'Pia', 'Maliszewski', '059456048') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (128) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (128, 'Racisław', 'Kapica', '606368768') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (129) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (129, 'Rachela', 'Pasternak', '256679823') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (130) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (130, 'Radzisław', 'Tomaszek', '439790675') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (131) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (131, 'Ananiasz', 'Wrzesiński', '034901820') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (132) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (132, 'Begina', 'Szczepaniak', '072251382') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (133) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (133, 'Salezy', 'Buczek', '521297245') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (134) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (134, 'Trzebomysł', 'Kazimierski', '404241264') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (135) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (135, 'Michał', 'Ćwikliński', '123396933') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (136) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (136, 'Irmina', 'Szubert', '617353650') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (137) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (137, 'Eryka', 'Czechowicz', '322034828') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (138) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (138, 'Nepomucen', 'Górski', '635880598') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (139) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (139, 'Janusz', 'Węgrzyn', '106388284') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (140) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (140, 'Witosław', 'Miler', '643388323') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (141) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (141, 'Ulryk', 'Mąka', '277098699') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (142) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (142, 'Dobrogost', 'Suszek', '169225076') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (143) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (143, 'Ingrid', 'Deptuła', '755789187') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (144) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (144, 'Dobrosław', 'Bogacz', '942822299') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (145) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (145, 'Racimir', 'Mazurek', '350562308') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (146) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (146, 'Ferdynand', 'Mierzejewski', '545295763') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (147) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (147, 'Pia', 'Czerniawski', '943196632') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (148) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (148, 'Ignacy', 'Szubert', '817290335') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (149) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (149, 'Wodzisław', 'Łaski', '895279147') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (150) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (150, 'Kir', 'Rojek', '680449550') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (151) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (151, 'Jędrzej', 'Wysocki', '818863148') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (152) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (152, 'Beatrice', 'Łukaszewicz', '428376048') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (153) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (153, 'Maryna', 'Kossakowski', '094891109') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (154) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (154, 'Honoryna', 'Ługowski', '611715182') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (155) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (155, 'Malwina', 'Dębiński', '580389699') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (156) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (156, 'Leonida', 'Patyk', '296679668') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (157) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (157, 'Ludomiła', 'Dutkiewicz', '276203900') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (158) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (158, 'Gwidon', 'Daniluk', '982202716') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (159) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (159, 'Wszemir', 'Jurczak', '293746519') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (160) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (160, 'Rudolf', 'Kuczyński', '928864968') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (161) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (161, 'Heloiza', 'Moskal', '620288031') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (162) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (162, 'Placyd', 'Roszkowski', '765710056') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (163) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (163, 'Polikarp', 'Dziubiński', '774983276') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (164) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (164, 'Dobromysł', 'Budzyński', '153780912') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (165) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (165, 'Abraham', 'Januszkiewicz', '283767161') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (166) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (166, 'August', 'Ptaszyński', '781319044') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (167) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (167, 'Racisław', 'Suszek', '742224085') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (168) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (168, 'Sylwan', 'Czapiewski', '686214044') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (169) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (169, 'Zenobiusz', 'Sroka', '152281274') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (170) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (170, 'Sewer', 'Wypych', '228079072') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (171) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (171, 'Boguchwał', 'Maj', '392521666') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (172) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (172, 'Przemysł', 'Gromek', '645847565') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (173) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (173, 'Barabasz', 'Skotnicki', '326295894') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (174) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (174, 'Wiera', 'Rowiński', '640528364') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (175) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (175, 'Julietta', 'Woliński', '125758497') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (176) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (176, 'Joachim', 'Kaczmarczyk', '435862644') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (177) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (177, 'Wiesław', 'Okoński', '414814111') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (178) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (178, 'Cyrus', 'Poręba', '281464078') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (179) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (179, 'Zbroimir', 'Czapliński', '473565736') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (180) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (180, 'Symplicjusz', 'Zygmunt', '343475973') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (181) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (181, 'Laza', 'Kopczyński', '941663389') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (182) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (182, 'Wilhelm', 'Czerniawski', '216136444') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (183) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (183, 'Beatrycze', 'Karolak', '027552306') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (184) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (184, 'Fryderyk', 'Czerniawski', '894810599') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (185) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (185, 'Sobiesław', 'Doliński', '857381614') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (186) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (186, 'Arleta', 'Wyszyński', '656613481') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (187) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (187, 'Cyriak', 'Jarząbek', '228647986') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (188) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (188, 'Sabin', 'Szatkowski', '769816358') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (189) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (189, 'Winicjusz', 'Nalepa', '144693067') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (190) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (190, 'Pompejusz', 'Baranowski', '520323810') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (191) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (191, 'Amin', 'Mastalerz', '165035591') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (192) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (192, 'Wrócisław', 'Sosiński', '797385509') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (193) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (193, 'Kirył', 'Kotarski', '599545167') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (194) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (194, 'Magdalena', 'Spychała', '549791046') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (195) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (195, 'Herminia', 'Grzywacz', '031855352') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (196) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (196, 'Tolisław', 'Juszczak', '429011399') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (197) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (197, 'Radzimir', 'Cieślar', '492138356') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (198) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (198, 'Chwalimira', 'Boczek', '318273707') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (199) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (199, 'Norma', 'Miś', '623767441') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (200) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (200, 'Konstancjusz', 'Kasprowicz', '438830501') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (201) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (201, 'Alberta', 'Świder', '459967741') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (202) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (202, 'Epifaniusz', 'Szewczuk', '161282070') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (203) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (203, 'Racimir', 'Molenda', '622785719') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (204) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (204, 'Egon', 'Grabarczyk', '114210169') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (205) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (205, 'Wiesław', 'Król', '657662409') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (206) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (206, 'Liboriusz', 'Grabiński', '562412561') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (207) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (207, 'Aleksander', 'Mrozowski', '616974079') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (208) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (208, 'Żalina', 'Kołacz', '648354375') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (209) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (209, 'Wolimir', 'Cieśliński', '668089572') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (210) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (210, 'Enema', 'Borowicz', '478203500') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (211) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (211, 'Cieszygor', 'Jurek', '223746211') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (212) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (212, 'Kacper', 'Dobrowolski', '656408789') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (213) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (213, 'Adam', 'Kołodziej', '304118705') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (214) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (214, 'Walentyn', 'Adamiak', '037735772') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (215) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (215, 'Orchidea', 'Dziuba', '657811759') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (216) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (216, 'Emiliana', 'Partyka', '963193444') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (217) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (217, 'Wincenta', 'Filipczak', '343969260') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (218) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (218, 'Częstogniew', 'Przybył', '463823366') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (219) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (219, 'Rafaela', 'Kulesza', '775878050') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (220) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (220, 'Przecław', 'Kułaga', '587422162') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (221) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (221, 'Mechtylda', 'Gołaszewski', '133962532') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (222) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (222, 'Herman', 'Gancarz', '140738357') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (223) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (223, 'Zbyszko', 'Żukowski', '127697180') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (224) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (224, 'Bolesława', 'Gadomski', '424642439') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (225) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (225, 'Weronika', 'Kozłowski', '543833896') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (226) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (226, 'Scholastyka', 'Godlewski', '266073262') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (227) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (227, 'Liberata', 'Kubicki', '226416925') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (228) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (228, 'Władysława', 'Maślanka', '783877544') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (229) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (229, 'Emiliusz', 'Bieliński', '855540123') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (230) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (230, 'Galla', 'Rodziewicz', '439278798') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (231) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (231, 'WrÃ³ciwoj', 'Kosior', '316409425') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (232) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (232, 'Zenobiusz', 'Bogdański', '377257566') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (233) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (233, 'Olimpia', 'Józefiak', '909892319') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (234) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (234, 'Świętomir', 'Kukuła', '783330655') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (235) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (235, 'Hygin', 'Domański', '010442247') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (236) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (236, 'Iwa', 'Iwanowski', '956894634') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (237) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (237, 'Iwo', 'Kulas', '136005436') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (238) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (238, 'Prot', 'Bieniek', '066909748') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (239) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (239, 'Erwin', 'Wach', '276373605') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (240) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (240, 'Mojżesz', 'Kulas', '382705028') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (241) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (241, 'Teodor', 'Burzyński', '929698281') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (242) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (242, 'Salwin', 'Duda', '498586198') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (243) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (243, 'Pudens', 'Grabowski', '301272319') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (244) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (244, 'Marcela', 'Janeczek', '481535028') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (245) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (245, 'Miromir', 'Sałata', '297502016') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (246) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (246, 'Ingrid', 'Karolak', '233482898') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (247) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (247, 'Blandyn', 'Czapiewski', '259916496') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (248) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (248, 'Jakobina', 'Brodowski', '757038368') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (249) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT PrivateClients ON; 
+INSERT INTO PrivateClients (PrivateClientID, Firstname, Lastname, Phone) VALUES (249, 'Władysław', 'Balicki', '904919839') 
+SET IDENTITY_INSERT PrivateClients OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (250) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (250, 'CI GAMES SPÓŁKA AKCYJNA', '909892920') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (251) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (251, 'AB SPÓŁKA AKCYJNA', '659533979') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (252) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (252, 'MENNICA POLSKA SPÓŁKA AKCYJNA', '255899163') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (253) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (253, 'EKO EXPORT SPÓŁKA AKCYJNA', '063306218') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (254) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (254, 'POLENERGIA SPÓŁKA AKCYJNA', '401924880') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (255) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (255, 'ELEMENTAL HOLDING SPÓLKA AKCYJNA', '596171096') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (256) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (256, 'POLIMEX - MOSTOSTAL SPÓŁKA AKCYJNA', '687267768') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (257) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (257, 'PCC ROKITA SPÓŁKA AKCYJNA', '961742187') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (258) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (258, 'LENTEX SPÓŁKA AKCYJNA', '029312009') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (259) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (259, 'FABRYKA FARB I LAKIERÓW ŚNIEŻKA SPÓŁKA AKCYJNA', '555187737') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (260) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (260, 'AC SPÓŁKA AKCYJNA', '349070420') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (261) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (261, 'MENNICA POLSKA SPÓŁKA AKCYJNA', '480615520') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (262) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (262, 'CAPITAL PARK SPÓŁKA AKCYJNA', '214039260') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (263) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (263, 'ELEKTROBUDOWA SPÓŁKA AKCYJNA', '174824340') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (264) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (264, 'POLSKI HOLDING NIERUCHOMOŚCI SPÓŁKA AKCYJNA', '979525865') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (265) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (265, 'STALEXPORT AUTOSTRADY SPÓŁKA AKCYJNA', '613062196') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (266) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (266, 'COMP SPÓŁKA AKCYJNA', '045026928') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (267) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (267, 'IMPEXMETAL SPÓŁKA AKCYJNA', '930713450') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (268) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (268, 'WIRTUALNA POLSKA HOLDING SPÓŁKA AKCYJNA', '885416101') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (269) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (269, 'CFI HOLDING SPÓŁKA AKCYJNA', '830365538') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (270) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (270, 'AC SPÓŁKA AKCYJNA', '641524747') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (271) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (271, 'ASBISC ENTERPRISES PLC', '778630416') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (272) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (272, 'MLP GROUP SPÓŁKA AKCYJNA', '930580643') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (273) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (273, 'ASBISC ENTERPRISES PLC', '959759434') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (274) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (274, 'ABC DATA SPÓŁKA AKCYJNA', '322911489') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (275) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (275, 'ZPUE SPÓŁKA AKCYJNA', '410309954') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (276) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (276, 'STALEXPORT AUTOSTRADY SPÓŁKA AKCYJNA', '210562348') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (277) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (277, 'ALTUS TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SPÓŁKA AKCYJNA', '363143016') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (278) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (278, 'X-TRADE BROKERS DOM MAKLERSKI SPÓŁKA AKCYJNA', '820308267') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (279) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (279, 'MENNICA POLSKA SPÓŁKA AKCYJNA', '157416692') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (280) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (280, 'AB SPÓŁKA AKCYJNA', '084120448') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (281) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (281, 'ABC DATA SPÓŁKA AKCYJNA', '833731525') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (282) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (282, 'KOPEX SPÓŁKA AKCYJNA', '935371617') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (283) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (283, 'BUMECH SPÓŁKA AKCYJNA', '655297045') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (284) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (284, 'QUERCUS TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SPÓŁKA AKCYJNA', '951167669') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (285) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (285, 'KOPEX SPÓŁKA AKCYJNA', '070912073') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (286) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (286, 'ASTARTA HOLDING N.V.', '830263044') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (287) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (287, 'MLP GROUP SPÓŁKA AKCYJNA', '471445644') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (288) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (288, 'ARCTIC PAPER SPÓŁKA AKCYJNA', '265143108') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (289) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (289, 'MABION SPÓŁKA AKCYJNA', '000582152') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (290) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (290, 'CFI HOLDING SPÓŁKA AKCYJNA', '086027827') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (291) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (291, 'ZAKŁADY TŁUSZCZOWE KRUSZWICA SPÓŁKA AKCYJNA', '620150927') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (292) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (292, 'WIELTON SPÓŁKA AKCYJNA', '681972732') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (293) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (293, 'LIVECHAT SOFTWARE SPÓŁKA AKCYJNA', '649313391') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (294) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (294, 'IMPEXMETAL SPÓŁKA AKCYJNA', '959734598') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (295) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (295, 'POLIMEX - MOSTOSTAL SPÓŁKA AKCYJNA', '463202755') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (296) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (296, 'ZPUE SPÓŁKA AKCYJNA', '962931399') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (297) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (297, 'ZESPÓŁ ELEKTROCIEPŁOWNI WROCŁAWSKICH KOGENERACJA SPÓŁKA AKCYJNA', '126935141') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (298) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (298, 'MOSTOSTAL ZABRZE SPÓŁKA AKCYJNA', '821387561') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (299) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (299, 'POLSKI HOLDING NIERUCHOMOŚCI SPÓŁKA AKCYJNA', '179437299') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (300) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (300, 'CAPITAL PARK SPÓŁKA AKCYJNA', '020390762') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (301) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (301, 'AC SPÓŁKA AKCYJNA', '601374672') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (302) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (302, 'RAINBOW TOURS SPÓŁKA AKCYJNA', '488134326') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (303) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (303, 'UNIBEP SPÓŁKA AKCYJNA', '512190921') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (304) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (304, 'ELEMENTAL HOLDING SPÓLKA AKCYJNA', '630267194') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (305) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (305, 'PRIME CAR MANAGEMENT SPÓŁKA AKCYJNA', '220872552') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (306) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (306, 'AUTO PARTNER SPÓŁKA AKCYJNA', '234132449') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (307) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (307, 'INTEGER.PL SPÓŁKA AKCYJNA', '655137978') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (308) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (308, 'ATAL SPÓŁKA AKCYJNA', '251840559') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (309) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (309, 'POLIMEX - MOSTOSTAL SPÓŁKA AKCYJNA', '602520232') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (310) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (310, 'ASSECO BUSINESS SOLUTIONS SPÓŁKA AKCYJNA', '146885333') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (311) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (311, 'ZESPÓŁ ELEKTROCIEPŁOWNI WROCŁAWSKICH KOGENERACJA SPÓŁKA AKCYJNA', '564128637') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (312) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (312, 'WORK SERVICE SPÓŁKA AKCYJNA', '406620804') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (313) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (313, 'MOSTOSTAL ZABRZE SPÓŁKA AKCYJNA', '369083772') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (314) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (314, 'ASTARTA HOLDING N.V.', '941772814') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (315) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (315, 'ZAKŁADY TŁUSZCZOWE KRUSZWICA SPÓŁKA AKCYJNA', '020082668') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (316) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (316, 'PRAIRIE MINING LIMITED', '502743356') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (317) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (317, 'DOM DEVELOPMENT SPÓŁKA AKCYJNA', '459491265') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (318) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (318, 'MCI CAPITAL SPÓŁKA AKCYJNA', '692695101') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (319) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (319, 'ASSECO BUSINESS SOLUTIONS SPÓŁKA AKCYJNA', '316594740') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (320) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (320, 'CAPITAL PARK SPÓŁKA AKCYJNA', '609913820') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (321) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (321, 'J. W. CONSTRUCTION HOLDING SPÓŁKA AKCYJNA', '282798557') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (322) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (322, 'AGORA SPÓŁKA AKCYJNA', '844439649') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (323) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (323, 'CAPITAL PARK SPÓŁKA AKCYJNA', '713991699') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (324) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (324, 'DOM DEVELOPMENT SPÓŁKA AKCYJNA', '454541018') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (325) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (325, 'OPONEO.PL SPÓŁKA AKCYJNA', '806028215') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (326) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (326, 'LC CORP SPÓŁKA AKCYJNA', '454252201') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (327) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (327, 'INTEGER.PL SPÓŁKA AKCYJNA', '615158427') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (328) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (328, 'MABION SPÓŁKA AKCYJNA', '053070872') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (329) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (329, 'KOPEX SPÓŁKA AKCYJNA', '886582216') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (330) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (330, 'ALCHEMIA SPÓŁKA AKCYJNA', '062835388') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (331) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (331, 'BRASTER SPÓŁKA AKCYJNA', '453540777') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (332) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (332, 'BANK OCHRONY ŚRODOWISKA SPÓŁKA AKCYJNA', '591166006') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (333) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (333, 'FABRYKA FARB I LAKIERÓW ŚNIEŻKA SPÓŁKA AKCYJNA', '762351656') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (334) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (334, 'ALCHEMIA SPÓŁKA AKCYJNA', '046092275') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (335) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (335, 'CAPITAL PARK SPÓŁKA AKCYJNA', '414886785') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (336) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (336, 'EKO EXPORT SPÓŁKA AKCYJNA', '155023403') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (337) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (337, 'GETIN HOLDING SPÓŁKA AKCYJNA', '085794043') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (338) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (338, 'AUTO PARTNER SPÓŁKA AKCYJNA', '440000323') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (339) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (339, 'IMPEXMETAL SPÓŁKA AKCYJNA', '430947849') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (340) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (340, 'WIELTON SPÓŁKA AKCYJNA', '787375644') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (341) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (341, 'MENNICA POLSKA SPÓŁKA AKCYJNA', '977966810') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (342) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (342, 'RANK PROGRESS SPÓŁKA AKCYJNA', '453352026') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (343) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (343, 'QUERCUS TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SPÓŁKA AKCYJNA', '542170750') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (344) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (344, 'AGORA SPÓŁKA AKCYJNA', '910140593') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (345) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (345, 'TIM SPÓŁKA AKCYJNA', '933343604') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (346) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (346, 'WIRTUALNA POLSKA HOLDING SPÓŁKA AKCYJNA', '345686444') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (347) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (347, 'PRIME CAR MANAGEMENT SPÓŁKA AKCYJNA', '476913720') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (348) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (348, 'NEWAG SPÓŁKA AKCYJNA', '810591432') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (349) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (349, 'X-TRADE BROKERS DOM MAKLERSKI SPÓŁKA AKCYJNA', '454569018') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (350) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (350, 'FIRMA OPONIARSKA DĘBICA SPÓŁKA AKCYJNA', '699255213') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (351) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (351, 'POLNORD SPÓŁKA AKCYJNA', '930051880') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (352) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (352, 'ZPUE SPÓŁKA AKCYJNA', '347190358') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (353) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (353, 'LIVECHAT SOFTWARE SPÓŁKA AKCYJNA', '421806240') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (354) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (354, 'RANK PROGRESS SPÓŁKA AKCYJNA', '629767427') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (355) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (355, 'PCC ROKITA SPÓŁKA AKCYJNA', '137026577') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (356) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (356, 'CI GAMES SPÓŁKA AKCYJNA', '203361830') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (357) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (357, 'FIRMA OPONIARSKA DĘBICA SPÓŁKA AKCYJNA', '281447308') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (358) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (358, 'MONNARI TRADE SPÓŁKA AKCYJNA', '785091719') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (359) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (359, 'NEWAG SPÓŁKA AKCYJNA', '785194814') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (360) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (360, 'RANK PROGRESS SPÓŁKA AKCYJNA', '408135571') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (361) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (361, 'ALCHEMIA SPÓŁKA AKCYJNA', '916318239') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (362) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (362, 'ATAL SPÓŁKA AKCYJNA', '354863743') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (363) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (363, 'AC SPÓŁKA AKCYJNA', '554718046') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (364) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (364, 'ZESPÓŁ ELEKTROWNI PĄTNÓW-ADAMÓW-KONIN SPÓŁKA AKCYJNA', '324885622') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (365) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (365, 'ELEKTROBUDOWA SPÓŁKA AKCYJNA', '185798951') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (366) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (366, 'URSUS SPÓŁKA AKCYJNA', '448422421') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (367) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (367, 'ABC DATA SPÓŁKA AKCYJNA', '212643885') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (368) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (368, 'COMP SPÓŁKA AKCYJNA', '135260780') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (369) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (369, 'ABC DATA SPÓŁKA AKCYJNA', '378103043') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (370) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (370, 'WORK SERVICE SPÓŁKA AKCYJNA', '017632977') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (371) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (371, 'MCI CAPITAL SPÓŁKA AKCYJNA', '260079113') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (372) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (372, 'KOPEX SPÓŁKA AKCYJNA', '475058647') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (373) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (373, 'RAFAKO SPÓŁKA AKCYJNA', '076457518') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (374) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (374, 'AGORA SPÓŁKA AKCYJNA', '777387588') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (375) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (375, 'MONNARI TRADE SPÓŁKA AKCYJNA', '145237527') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (376) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (376, 'PCC ROKITA SPÓŁKA AKCYJNA', '279686151') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (377) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (377, 'ASSECO BUSINESS SOLUTIONS SPÓŁKA AKCYJNA', '825293343') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (378) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (378, 'FERRO SPÓŁKA AKCYJNA', '182154699') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (379) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (379, 'AC SPÓŁKA AKCYJNA', '111545004') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (380) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (380, 'PELION SPÓŁKA AKCYJNA', '661402105') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (381) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (381, 'ATAL SPÓŁKA AKCYJNA', '329787736') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (382) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (382, 'AB SPÓŁKA AKCYJNA', '807729810') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (383) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (383, 'GETIN HOLDING SPÓŁKA AKCYJNA', '969410220') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (384) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (384, 'HERKULES SPÓŁKA AKCYJNA', '377436268') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (385) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (385, 'POLIMEX - MOSTOSTAL SPÓŁKA AKCYJNA', '434970238') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (386) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (386, 'NEWAG SPÓŁKA AKCYJNA', '921119813') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (387) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (387, 'GROCLIN SPÓŁKA AKCYJNA', '115549808') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (388) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (388, 'ATAL SPÓŁKA AKCYJNA', '278146080') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (389) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (389, 'ABC DATA SPÓŁKA AKCYJNA', '248605222') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (390) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (390, 'PELION SPÓŁKA AKCYJNA', '219439142') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (391) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (391, 'URSUS SPÓŁKA AKCYJNA', '359374734') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (392) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (392, 'GRUPA AZOTY ZAKŁADY CHEMICZNE POLICE SPÓŁKA AKCYJNA', '447757241') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (393) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (393, 'ALTUS TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SPÓŁKA AKCYJNA', '588277292') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (394) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (394, 'AB SPÓŁKA AKCYJNA', '507103729') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (395) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (395, 'BUMECH SPÓŁKA AKCYJNA', '646324590') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (396) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (396, 'ELEKTROBUDOWA SPÓŁKA AKCYJNA', '861951533') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (397) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (397, 'ALCHEMIA SPÓŁKA AKCYJNA', '450806809') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (398) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (398, 'PBG SPÓŁKA AKCYJNA', '419442509') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (399) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (399, 'LC CORP SPÓŁKA AKCYJNA', '787654855') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (400) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (400, 'ZESPÓŁ ELEKTROWNI PĄTNÓW-ADAMÓW-KONIN SPÓŁKA AKCYJNA', '003882391') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (401) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (401, 'PBG SPÓŁKA AKCYJNA', '171542133') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (402) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (402, 'PCC ROKITA SPÓŁKA AKCYJNA', '532673250') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (403) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (403, 'BYTOM SPÓŁKA AKCYJNA', '841008882') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (404) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (404, 'KOPEX SPÓŁKA AKCYJNA', '175130244') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (405) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (405, 'POLNORD SPÓŁKA AKCYJNA', '619332160') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (406) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (406, 'WIRTUALNA POLSKA HOLDING SPÓŁKA AKCYJNA', '554029528') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (407) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (407, 'LENTEX SPÓŁKA AKCYJNA', '378273616') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (408) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (408, 'ASSECO BUSINESS SOLUTIONS SPÓŁKA AKCYJNA', '576987149') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (409) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (409, 'MABION SPÓŁKA AKCYJNA', '697862221') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (410) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (410, 'FABRYKA FARB I LAKIERÓW ŚNIEŻKA SPÓŁKA AKCYJNA', '607995047') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (411) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (411, 'TIM SPÓŁKA AKCYJNA', '916371300') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (412) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (412, 'ASTARTA HOLDING N.V.', '927891608') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (413) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (413, 'NEWAG SPÓŁKA AKCYJNA', '095416764') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (414) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (414, 'COMP SPÓŁKA AKCYJNA', '260520008') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (415) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (415, 'MABION SPÓŁKA AKCYJNA', '516274835') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (416) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (416, 'POLNORD SPÓŁKA AKCYJNA', '088394328') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (417) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (417, 'POLSKI HOLDING NIERUCHOMOŚCI SPÓŁKA AKCYJNA', '239682303') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (418) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (418, 'TORPOL SPÓŁKA AKCYJNA', '610729352') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (419) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (419, 'LENTEX SPÓŁKA AKCYJNA', '926472384') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (420) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (420, 'FAMUR SPÓŁKA AKCYJNA', '637605283') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (421) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (421, 'IZOBLOK SPÓŁKA AKCYJNA', '329266717') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (422) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (422, 'DOM DEVELOPMENT SPÓŁKA AKCYJNA', '763877592') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (423) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (423, 'FIRMA OPONIARSKA DĘBICA SPÓŁKA AKCYJNA', '073977751') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (424) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (424, 'LIVECHAT SOFTWARE SPÓŁKA AKCYJNA', '500433664') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (425) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (425, 'POLENERGIA SPÓŁKA AKCYJNA', '900940450') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (426) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (426, 'CAPITAL PARK SPÓŁKA AKCYJNA', '448680520') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (427) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (427, 'PBG SPÓŁKA AKCYJNA', '548620265') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (428) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (428, 'POLSKI HOLDING NIERUCHOMOŚCI SPÓŁKA AKCYJNA', '065540977') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (429) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (429, 'GROCLIN SPÓŁKA AKCYJNA', '014774632') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (430) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (430, 'POLSKI HOLDING NIERUCHOMOŚCI SPÓŁKA AKCYJNA', '985587058') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (431) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (431, 'ZPUE SPÓŁKA AKCYJNA', '667276897') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (432) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (432, 'BSC DRUKARNIA OPAKOWAŃ SPÓŁKA AKCYJNA', '293329623') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (433) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (433, 'ZAKŁADY TŁUSZCZOWE KRUSZWICA SPÓŁKA AKCYJNA', '058612574') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (434) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (434, 'BANK OCHRONY ŚRODOWISKA SPÓŁKA AKCYJNA', '732977990') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (435) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (435, 'AGORA SPÓŁKA AKCYJNA', '783798923') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (436) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (436, 'FERRO SPÓŁKA AKCYJNA', '051316018') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (437) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (437, 'WORK SERVICE SPÓŁKA AKCYJNA', '943740671') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (438) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (438, 'WIELTON SPÓŁKA AKCYJNA', '228859070') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (439) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (439, 'STALEXPORT AUTOSTRADY SPÓŁKA AKCYJNA', '167995306') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (440) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (440, 'VISTULA GROUP SPÓŁKA AKCYJNA', '079024777') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (441) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (441, 'CFI HOLDING SPÓŁKA AKCYJNA', '541059501') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (442) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (442, 'HERKULES SPÓŁKA AKCYJNA', '795860620') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (443) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (443, 'POLENERGIA SPÓŁKA AKCYJNA', '609668028') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (444) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (444, 'ARCTIC PAPER SPÓŁKA AKCYJNA', '381267587') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (445) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (445, 'BYTOM SPÓŁKA AKCYJNA', '094748874') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (446) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (446, 'CAPITAL PARK SPÓŁKA AKCYJNA', '561971010') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (447) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (447, 'ELEKTROBUDOWA SPÓŁKA AKCYJNA', '024396485') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (448) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (448, 'RAFAKO SPÓŁKA AKCYJNA', '334225099') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (449) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (449, 'MABION SPÓŁKA AKCYJNA', '593265164') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (450) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (450, 'GRUPA AZOTY ZAKŁADY CHEMICZNE POLICE SPÓŁKA AKCYJNA', '690150335') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (451) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (451, 'KOPEX SPÓŁKA AKCYJNA', '224232699') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (452) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (452, 'ZESPÓŁ ELEKTROWNI PĄTNÓW-ADAMÓW-KONIN SPÓŁKA AKCYJNA', '614766781') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (453) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (453, 'OPONEO.PL SPÓŁKA AKCYJNA', '619387215') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (454) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (454, 'X-TRADE BROKERS DOM MAKLERSKI SPÓŁKA AKCYJNA', '502119484') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (455) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (455, 'FAMUR SPÓŁKA AKCYJNA', '263686660') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (456) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (456, 'COMP SPÓŁKA AKCYJNA', '567707547') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (457) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (457, 'GETIN HOLDING SPÓŁKA AKCYJNA', '800424687') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (458) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (458, 'CFI HOLDING SPÓŁKA AKCYJNA', '785883782') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (459) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (459, 'TORPOL SPÓŁKA AKCYJNA', '822968101') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (460) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (460, 'ALTUS TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SPÓŁKA AKCYJNA', '746818861') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (461) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (461, 'POLSKI HOLDING NIERUCHOMOŚCI SPÓŁKA AKCYJNA', '955605092') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (462) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (462, 'MONNARI TRADE SPÓŁKA AKCYJNA', '358021170') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (463) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (463, 'DOM DEVELOPMENT SPÓŁKA AKCYJNA', '710723833') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (464) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (464, 'ARCTIC PAPER SPÓŁKA AKCYJNA', '077402728') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (465) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (465, 'AB SPÓŁKA AKCYJNA', '531360393') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (466) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (466, 'FIRMA OPONIARSKA DĘBICA SPÓŁKA AKCYJNA', '041676679') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (467) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (467, 'QUERCUS TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SPÓŁKA AKCYJNA', '998559062') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (468) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (468, 'AUTO PARTNER SPÓŁKA AKCYJNA', '250216265') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (469) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (469, 'WIRTUALNA POLSKA HOLDING SPÓŁKA AKCYJNA', '954125255') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (470) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (470, 'VISTULA GROUP SPÓŁKA AKCYJNA', '479209166') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (471) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (471, 'BYTOM SPÓŁKA AKCYJNA', '200604041') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (472) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (472, 'AUTO PARTNER SPÓŁKA AKCYJNA', '469725343') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (473) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (473, 'MABION SPÓŁKA AKCYJNA', '300382455') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (474) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (474, 'MANGATA HOLDING SPÓŁKA AKCYJNA', '949791576') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (475) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (475, 'LC CORP SPÓŁKA AKCYJNA', '862196557') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (476) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (476, 'AGORA SPÓŁKA AKCYJNA', '137531122') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (477) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (477, 'MCI CAPITAL SPÓŁKA AKCYJNA', '768374158') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (478) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (478, 'COMP SPÓŁKA AKCYJNA', '176043526') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (479) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (479, 'AB SPÓŁKA AKCYJNA', '224687251') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (480) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (480, 'PELION SPÓŁKA AKCYJNA', '273207945') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (481) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (481, 'MCI CAPITAL SPÓŁKA AKCYJNA', '120897245') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (482) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (482, 'POLNORD SPÓŁKA AKCYJNA', '708018625') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (483) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (483, 'FABRYKA FARB I LAKIERÓW ŚNIEŻKA SPÓŁKA AKCYJNA', '969435775') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (484) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (484, 'WIRTUALNA POLSKA HOLDING SPÓŁKA AKCYJNA', '162609450') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (485) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (485, 'MONNARI TRADE SPÓŁKA AKCYJNA', '678403323') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (486) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (486, 'QUERCUS TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SPÓŁKA AKCYJNA', '452660820') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (487) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (487, 'WORK SERVICE SPÓŁKA AKCYJNA', '467575353') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (488) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (488, 'KOPEX SPÓŁKA AKCYJNA', '597525750') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (489) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (489, 'WIELTON SPÓŁKA AKCYJNA', '545854337') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (490) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (490, 'POLIMEX - MOSTOSTAL SPÓŁKA AKCYJNA', '504422850') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (491) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (491, 'BRASTER SPÓŁKA AKCYJNA', '379844465') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (492) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (492, 'QUERCUS TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SPÓŁKA AKCYJNA', '896974563') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (493) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (493, 'LIVECHAT SOFTWARE SPÓŁKA AKCYJNA', '667844273') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (494) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (494, 'LENTEX SPÓŁKA AKCYJNA', '478606658') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (495) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (495, 'BRASTER SPÓŁKA AKCYJNA', '421494847') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (496) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (496, 'BRASTER SPÓŁKA AKCYJNA', '458153458') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (497) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (497, 'FABRYKA FARB I LAKIERÓW ŚNIEŻKA SPÓŁKA AKCYJNA', '475450098') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (498) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (498, 'ARCTIC PAPER SPÓŁKA AKCYJNA', '357022930') 
+SET IDENTITY_INSERT Companies OFF; 
+SET IDENTITY_INSERT Clients ON; 
+INSERT INTO Clients (ClientID) VALUES (499) 
+SET IDENTITY_INSERT Clients OFF; 
+SET IDENTITY_INSERT Companies ON; 
+INSERT INTO Companies (CompanyID, CompanyName, Phone) VALUES (499, 'MONNARI TRADE SPÓŁKA AKCYJNA', '856882799') 
+SET IDENTITY_INSERT Companies OFF; 
+

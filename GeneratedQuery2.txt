@@ -1,0 +1,1194 @@
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (1, 'IV Ogólnopolski Kongres Inżynierii Środowiska', '5/7/2014', '5/8/2014', 54, 3, 'Apartamentowa 159', 0.3, 301) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (1, 1, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (2, 1, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 1) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 1) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 1) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (2, 'Modele internacjonalizacji przedsiębiorstw. Podstawy teoretyczne, metodologiczne i rezultaty badań', '7/29/2013', '7/29/2013', 90, 4, 'Boryny 148', 0.7, 183) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (3, 2, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 2) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 2) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 2) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (3, 'X Ogólnopolska Konferencja Naukowa pt. Małe miasta - zastosowanie nowoczesnych intrumentów polityki rozwoju lokalnego.', '9/17/2014', '9/19/2014', 188, 1, 'Katowicka  53', 0.4, 499) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (4, 3, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (5, 3, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (6, 3, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 3) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 3) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 3) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (4, 'Kreatywność i systemy inteligencji biznesowej jako przedmiot badań ekonomicznych', '9/7/2014', '9/10/2014', 268, 1, 'Komorska 140', 0.8, 470) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (7, 4, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (8, 4, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (9, 4, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (10, 4, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 4) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 4) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 4) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (5, 'Innowacje w finansach i ubezpieczeniach. Metody matematyczne, ekonometryczne i komputerowe METODY 2012', '6/29/2014', '6/29/2014', 150, 1, 'Kłuszyńskiej  135', 0.8, 35) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (11, 5, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 5) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 5) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 5) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (6, 'Systemy Wspomagania Organizacji/ Creativity Support Systems - SWO/CSS 2012', '4/23/2014', '4/24/2014', 150, 3, 'Klarysewska  142', 0.2, 53) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (12, 6, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (13, 6, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 6) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 6) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 6) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (7, 'Finanse w niestabilnym otoczeniu - dylematy i wyzwania', '2/8/2013', '2/8/2013', 111, 4, 'Konińska 140', 0.4, 135) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (14, 7, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 7) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 7) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 7) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (8, 'KMCS "Workshop" pt.:"Dynamics of functionally graded materials and systems with hysteresis"', '8/7/2014', '8/10/2014', 222, 1, 'Lisa-Kuli 187', 0.0, 241) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (15, 8, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (16, 8, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (17, 8, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (18, 8, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 8) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 8) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 8) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (9, 'KMCS "Workshop" pt.:"Nonlinear dynamic phenomena in mechanical aerospace and civil engineering"', '9/16/2014', '9/19/2014', 68, 3, 'Katalogowa  188', 0.3, 466) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (19, 9, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (20, 9, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (21, 9, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (22, 9, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 9) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 9) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 9) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (10, 'XX Polish-Czech Seminar "Structural & Ferroelectric Phase Transitions', '2/20/2013', '2/21/2013', 272, 3, 'Kłopotowskiego  168', 0.4, 188) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (23, 10, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (24, 10, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 10) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 10) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 10) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (11, 'Iwo Gall - redutowiec, artysta teatr', '10/26/2013', '10/26/2013', 188, 1, 'Anecińska 33', 0.3, 465) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (25, 11, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 11) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 11) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 11) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (12, 'Polski odcinek wschodniej granicy Unii Europejskiej', '5/15/2014', '5/17/2014', 55, 4, 'Lustrzana 20', 0.2, 275) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (26, 12, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (27, 12, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (28, 12, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 12) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 12) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 12) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (13, 'ReNewTown. New post-socialist city: Competitive and Attractive.', '4/24/2014', '4/27/2014', 83, 2, 'Lokajskiego 110', 0.1, 110) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (29, 13, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (30, 13, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (31, 13, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (32, 13, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 13) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 13) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 13) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (14, 'Innowacyjne techniki i technologie w transporcie', '2/18/2014', '2/21/2014', 58, 3, 'Klecka  103', 0.4, 32) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (33, 14, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (34, 14, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (35, 14, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (36, 14, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 14) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 14) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 14) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (15, 'ProBioKap - 2012. Bioimmobilizacja w zastosowaniach praktycznych. Forum przemysłowo - naukowe', '1/24/2014', '1/24/2014', 138, 1, 'Antenowa 151', 0.5, 385) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (37, 15, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 15) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 15) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 15) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (16, 'Weryfikacje technik immobilizacji oraz rozdziału membranowego - zagadnienia praktyczne oraz dyskusje wyników', '9/6/2014', '9/9/2014', 208, 1, 'Komunardów 38', 0.3, 480) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (38, 16, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (39, 16, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (40, 16, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (41, 16, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 16) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 16) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 16) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (17, '"Dostępność i mobilność w przestrzeni"', '10/11/2013', '10/13/2013', 144, 3, 'Arciszewskiego 30', 0.0, 236) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (42, 17, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (43, 17, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (44, 17, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 17) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 17) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 17) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (18, 'IBIZA 2010', '5/22/2013', '5/23/2013', 142, 1, 'Kondracka 166', 0.1, 300) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (45, 18, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (46, 18, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 18) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 18) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 18) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (19, 'II Ogólnopolskie Sympozjum "Nauka i przemysł - metody spektroskopowe w praktyce"', '4/14/2014', '4/16/2014', 119, 1, 'Klarysewska  173', 0.7, 337) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (47, 19, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (48, 19, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (49, 19, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 19) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 19) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 19) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (20, 'Nowoczesne Techniki Badania Powierzchni i Obszarów Międzyfazowych', '11/13/2014', '11/16/2014', 203, 4, 'Kolbego  11', 0.8, 381) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (50, 20, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (51, 20, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (52, 20, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (53, 20, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 20) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 20) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 20) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (21, 'XIV Konferencja i III Szkoła "Światłowody i ich zastosowania"', '8/2/2013', '8/4/2013', 266, 4, 'Kolibrów  60', 0.1, 100) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (54, 21, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (55, 21, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (56, 21, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 21) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 21) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 21) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (22, '7th International Symposium "Effects of Surface Heterogeneity in Adsorption and Catalysis on Solids', '8/14/2014', '8/14/2014', 62, 3, 'Kondratowicza 60', 0.2, 324) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (57, 22, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 22) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 22) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 22) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (23, 'Problemy odnowy osiedli mieszkaniowych w miastach post-socjalistycznych Europy Centralnej - projekt badawczy ReNewTown. Identyfikacja problemów w kontekście badań przeprowadzonych na Ursynowie. Konsultacje publiczne', '8/25/2013', '8/27/2013', 222, 3, 'Kolista  193', 0.7, 212) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (58, 23, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (59, 23, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (60, 23, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 23) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 23) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 23) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (24, '38 Polskie Seminarium Anihilacji Pozytonów', '2/11/2014', '2/11/2014', 143, 1, 'Locci 135', 0.7, 332) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (61, 24, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 24) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 24) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 24) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (25, 'Sympozjum Naukowe Marii Curie - Skłodowskiej', '7/23/2013', '7/25/2013', 233, 2, 'al. Lotników 143', 0.4, 460) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (62, 25, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (63, 25, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (64, 25, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 25) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 25) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 25) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (26, 'XV Krajowa Konferencja "Stulecie nadprzewodnictwa"', '10/3/2013', '10/3/2013', 216, 2, 'Kolista  84', 0.8, 51) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (65, 26, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 26) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 26) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 26) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (27, 'XVI Warsztaty Fizyki Jądrowej w Kazimierzu Dolnym', '8/30/2013', '8/30/2013', 243, 1, 'Kokoryczki  4', 0.5, 88) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (66, 27, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 27) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 27) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 27) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (28, 'XVII Warsztaty Fizyki Jądrowej w Kazimierzu Dolnym', '12/30/2013', '12/30/2013', 296, 2, 'Lipska 143', 0.5, 461) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (67, 28, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 28) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 28) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 28) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (29, '39th Polish Seminar on Positron Annihilation', '7/15/2013', '7/18/2013', 120, 4, 'Karolkowa  116', 0.5, 292) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (68, 29, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (69, 29, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (70, 29, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (71, 29, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 29) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 29) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 29) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (30, 'XVIII Warsztaty Fizyki Jądrowej w Kazimierzu Dolnym', '4/8/2014', '4/9/2014', 290, 1, 'Kłosowa  38', 0.0, 234) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (72, 30, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (73, 30, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 30) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 30) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 30) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (31, 'XIX Warsztaty Fizyki Jądrowej w Kazimierzu Dolnym', '9/28/2013', '9/28/2013', 143, 2, 'Kawęczyńska  4', 0.6, 65) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (74, 31, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 31) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 31) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 31) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (32, 'The 2nd Conference on Contemporary Problems of Geochemistry', '2/5/2013', '2/6/2013', 132, 4, 'Arkadowa 116', 0.8, 237) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (75, 32, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (76, 32, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 32) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 32) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 32) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (33, 'The XIth Geochronological Conference on Dating of Minerals and Rocks', '4/18/2014', '4/21/2014', 72, 4, 'Kleeberga  196', 0.6, 366) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (77, 33, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (78, 33, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (79, 33, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (80, 33, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 33) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 33) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 33) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (34, 'Kryptografia i ochrona informacji', '3/29/2014', '3/29/2014', 184, 1, 'Klonowa  193', 0.6, 438) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (81, 34, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 34) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 34) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 34) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (35, 'XV International Conference on Matematics, Informatics and Related Fields', '1/2/2014', '1/5/2014', 57, 4, 'Bosmańska 68', 0.0, 395) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (82, 35, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (83, 35, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (84, 35, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (85, 35, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 35) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 35) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 35) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (36, '"Wyzwania w zarządzaniu współczesną administracją"', '5/5/2014', '5/8/2014', 224, 1, 'Kocka  104', 0.1, 468) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (86, 36, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (87, 36, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (88, 36, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (89, 36, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 36) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 36) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 36) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (37, 'Pracownicy socjalni i wolontariusze w systemie pomocy społecznej', '4/26/2014', '4/27/2014', 279, 3, 'Kleczewska  9', 0.4, 27) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (90, 37, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (91, 37, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 37) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 37) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 37) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (38, 'Służby społeczne w partnerstwie na rzecz innowacji sprzyjających aktywnemu starzeniu się w dobrym zdrowiu', '3/23/2014', '3/23/2014', 202, 2, 'Kartezjusza  52', 0.6, 191) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (92, 38, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 38) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 38) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 38) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (39, 'VI Międzynarodowa Konferencja Naukowa EDUKACJA WIELOKULTUROWA WYZWANIEM DLA NAUK O WYCHOWANIU', '10/20/2013', '10/23/2013', 228, 2, 'Lubiniecka 156', 0.5, 207) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (93, 39, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (94, 39, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (95, 39, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (96, 39, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 39) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 39) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 39) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (40, 'II Ogólnopolskie Sympozjum Naukowe nt. Sporty zimowe i turystyka zimowa w tradycji polskiej kultury fizycznej', '10/9/2014', '10/11/2014', 190, 2, 'pl. Konfederacji 95', 0.0, 239) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (97, 40, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (98, 40, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (99, 40, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 40) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 40) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 40) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (41, 'III Ogólnopolskie Sympozjum Naukowe nt. Sporty zimowe i turystyka zimowa w tradycji polskiej kultury fizycznej', '10/16/2013', '10/16/2013', 254, 4, 'Borowego 15', 0.4, 371) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (100, 41, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 41) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 41) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 41) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (42, 'IV Międzynarodowa Konferencja Naukowa pt. Współczesne wyzwania wobec edukacji elementarnej', '9/23/2014', '9/26/2014', 127, 4, 'Lusińska 87', 0.4, 298) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (101, 42, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (102, 42, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (103, 42, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (104, 42, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 42) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 42) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 42) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (43, 'Polska i Europa Środkowa-demokratyzacja, konsolidacja, europeizacja', '7/26/2013', '7/29/2013', 95, 4, 'Kazury  125', 0.0, 364) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (105, 43, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (106, 43, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (107, 43, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (108, 43, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 43) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 43) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 43) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (44, 'XLIII Szkoła Matematyki Poglądowej nt.: "Wbrew intuicji"', '1/21/2013', '1/21/2013', 61, 4, 'al. Komisji Edukacji Narodowej 182', 0.8, 205) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (109, 44, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 44) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 44) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 44) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (45, 'Stan i perspektywy demokracji bezpośredniej w Polsce', '11/5/2013', '11/5/2013', 72, 1, 'Lniana 70', 0.8, 179) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (110, 45, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 45) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 45) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 45) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (46, 'Dwadzieścia lat minęło jak jeden dzień', '9/23/2013', '9/25/2013', 133, 1, 'Borowiecka 141', 0.4, 433) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (111, 46, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (112, 46, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (113, 46, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 46) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 46) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 46) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (47, 'Mieszane systemy wyborcze, balotaż partycypacyjny czy manipulacja wyborcza', '11/4/2013', '11/6/2013', 228, 3, 'Liwska 28', 0.4, 98) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (114, 47, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (115, 47, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (116, 47, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 47) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 47) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 47) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (48, 'XLVII Szkoła Matematyki Poglądowej nt.: " Ekstrema"', '2/25/2014', '2/27/2014', 65, 3, 'Kilińskiego  61', 0.3, 376) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (117, 48, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (118, 48, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (119, 48, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 48) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 48) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 48) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (49, 'Komunikowanie się Polaków w okresie II wojny światowej', '7/23/2013', '7/23/2013', 21, 4, 'Kazimierza Wielkiego  29', 0.4, 257) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (120, 49, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 49) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 49) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 49) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (50, 'Geostrategia regionu czarnomorsko-kaspijskiego', '7/28/2013', '7/29/2013', 40, 1, 'Antyczna 12', 0.6, 116) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (121, 50, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (122, 50, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 50) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 50) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 50) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (51, 'NATO w pozimnowojennym środowisku (nie)bezpieczeństwa', '10/9/2013', '10/10/2013', 278, 4, 'Kircholmska  14', 0.0, 189) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (123, 51, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (124, 51, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 51) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 51) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 51) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (52, 'XLVIII Szkoła Matematyki Poglądowej nt.: "Skojarzenia i analogie"', '11/12/2014', '11/14/2014', 93, 2, 'Arciszewskiego 16', 0.3, 147) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (125, 52, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (126, 52, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (127, 52, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 52) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 52) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 52) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (53, 'Nowe oblicza dyplomacji', '4/19/2013', '4/22/2013', 281, 2, 'Klarysewska  72', 0.5, 425) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (128, 53, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (129, 53, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (130, 53, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (131, 53, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 53) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 53) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 53) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (54, 'Oblicza Ameryki Łacińskiej', '5/15/2013', '5/16/2013', 123, 3, 'Karnicka  81', 0.5, 182) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (132, 54, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (133, 54, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 54) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 54) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 54) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (55, 'Społeczeństwo Polskie we wrześniu 1939 r.', '2/23/2014', '2/25/2014', 297, 1, 'Konduktorska 185', 0.7, 17) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (134, 55, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (135, 55, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (136, 55, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 55) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 55) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 55) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (56, 'XLIX Szkoła Matematyki Poglądowej nt.: "Wyjątki"', '10/23/2013', '10/24/2013', 295, 4, 'Kiermaszowa  8', 0.7, 208) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (137, 56, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (138, 56, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 56) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 56) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 56) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (57, 'XX lat samorządu terytorialnego w Polsce - sukcesy, porażki, perspektywy', '1/14/2014', '1/15/2014', 203, 1, 'Boryny 1', 0.3, 148) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (139, 57, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (140, 57, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 57) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 57) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 57) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (58, 'Dwieście lat niepodległości państw Ameryki Łacińskiej. Historia i współczesność', '7/14/2014', '7/15/2014', 238, 3, 'Kątskiego  159', 0.6, 431) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (141, 58, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (142, 58, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 58) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 58) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 58) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (59, 'Komunikowanie się Polaków w latach 1944-1989', '11/9/2013', '11/9/2013', 293, 4, 'Kocjana  120', 0.7, 114) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (143, 59, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 59) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 59) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 59) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (60, 'Marketing polityczny - teoria i praktyka', '6/4/2014', '6/4/2014', 228, 3, 'Komorska 157', 0.6, 191) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (144, 60, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 60) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 60) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 60) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (61, 'Polityka historyczna w literaturze polskiej', '8/7/2014', '8/7/2014', 71, 3, 'al. Komisji Edukacji Narodowej 65', 0.0, 59) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (145, 61, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 61) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 61) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 61) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (62, 'Polska i Europa na przełomie XX i XXI wieku', '4/8/2013', '4/11/2013', 7, 1, 'Kądziołeczki  112', 0.1, 130) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (146, 62, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (147, 62, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (148, 62, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (149, 62, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 62) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 62) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 62) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (63, 'Stan i perspektywy demokracji bezpośredniej w Europie i świecie', '1/6/2013', '1/8/2013', 154, 3, 'Kłodzka  173', 0.3, 232) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (150, 63, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (151, 63, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (152, 63, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 63) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 63) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 63) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (64, 'Traktat z Lizbony w praktyce. Pierwsze doświadczenia i nowe wyzwania', '2/13/2014', '2/13/2014', 262, 1, 'Anecińska 54', 0.7, 292) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (153, 64, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 64) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 64) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 64) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (65, 'Wokół idei Jerzego Giedroycia', '12/27/2013', '12/29/2013', 89, 4, 'Borowej Góry 63', 0.3, 72) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (154, 65, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (155, 65, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (156, 65, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 65) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 65) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 65) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (66, 'Demokracja bezpośrednia w samorządzie terytorialnym', '3/1/2014', '3/3/2014', 257, 3, 'Litworowa 112', 0.2, 327) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (157, 66, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (158, 66, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (159, 66, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 66) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 66) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 66) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (67, 'Kultura wiedzy', '9/27/2013', '9/27/2013', 147, 1, 'Kleczewska  199', 0.3, 158) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (160, 67, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 67) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 67) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 67) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (68, 'Mindware. Technologie dialogu', '7/13/2013', '7/14/2013', 261, 1, 'Archimedesa 61', 0.0, 171) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (161, 68, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (162, 68, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 68) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 68) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 68) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (69, 'Dni Technologii Językowej - Human Language Technology Days 2012', '10/3/2013', '10/6/2013', 216, 2, 'Lisia 93', 0.6, 474) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (163, 69, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (164, 69, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (165, 69, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (166, 69, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 69) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 69) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 69) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (70, 'International Joint Conference on Security and Intelligent Information Systems Joint Meeting of the 2nd Luxembourg-Polish Symposium on Security and Trust and the 19th International Conference Intelligent Information Systems', '2/5/2013', '2/6/2013', 109, 2, 'Lubomelska 24', 0.1, 213) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (167, 70, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (168, 70, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 70) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 70) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 70) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (71, 'Od rewolucji przemysłowej do transformacji i integracji gospodarczej - uwarunkowania współczesnej polityki gospodarczej', '12/4/2014', '12/7/2014', 31, 1, 'Karpacka  36', 0.7, 121) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (169, 71, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (170, 71, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (171, 71, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (172, 71, 4) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 71) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 71) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 71) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (72, 'Współczesne problemy ekonomiczne', '1/28/2014', '1/29/2014', 247, 3, 'Lutosławskiego 46', 0.3, 169) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (173, 72, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (174, 72, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 72) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 72) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 72) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (73, 'XV Jubileuszowa Konferencja Naukowa pt. Sektor kreatywny jako katalizator przemian strukturalnych w regionie', '10/22/2013', '10/24/2013', 225, 4, 'Bołtucia 137', 0.0, 103) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (175, 73, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (176, 73, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (177, 73, 3) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 73) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 73) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 73) 
+INSERT INTO Conferences (ConferenceID, Name, StartDate, EndDate, BasicPricePerDay, CityID, Street, StudentsDiscount, maxParticipants) VALUES (74, 'Dylematy współczesnego rynku pracy', '12/28/2014', '12/29/2014', 217, 1, 'Kolektorska  95', 0.4, 11) 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (178, 74, 1) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+SET IDENTITY_INSERT Conferences OFF; 
+SET IDENTITY_INSERT ConferenceDay ON; 
+INSERT INTO ConferenceDay (ConferenceDayID, ConferenceID, whichDay) VALUES (179, 74, 2) 
+SET IDENTITY_INSERT ConferenceDay OFF; 
+SET IDENTITY_INSERT Conferences ON; 
+INSERT INTO TimeDiscounts VALUES (7, 0.1, 74) 
+INSERT INTO TimeDiscounts VALUES (14, 0.3, 74) 
+INSERT INTO TimeDiscounts VALUES (21, 0.5, 74) 
+SET IDENTITY_INSERT Conferences OFF; 
+
